@@ -64,7 +64,7 @@ body {
     border: 1px #363a43 solid;
     box-shadow: 0 0.5em 1em rgba(0, 0, 0, 0.2);
     border-radius: 0.5em;
-    color: #9fa5b5;
+    color: #fff;
     position: absolute;
     top: 3em;
     left: 50%;
@@ -94,12 +94,12 @@ body {
 }
 
 .menu li:hover{
-    background: #2a2d35;
+    background: #54B14C;
     width: 100%;
 }
 
 .active {
-    background: #26489a;
+    background: #54B14C;
     width: 100%;
 }
 
